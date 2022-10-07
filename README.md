@@ -20,11 +20,11 @@ Happy Learning :)
 
 - Course 2: Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization
 
-  - [W1A1 - Initialization](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week1/Initialization)
-  - [W1A2 - Regularization](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week1/Regularization)
-  - [W1A3 - Gradient Checking](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week1/Gradient%20Checking)
-  - [W2A1 - Optimization Methods](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week2)
-  - [W3A1 - Introduction to TensorFlow](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week3)
+  - [W1A1 - Initialization](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week5/Initialization)
+  - [W1A2 - Regularization](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week5/Regularization)
+  - [W1A3 - Gradient Checking](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week5/Gradient%20Checking)
+  - [W2A1 - Optimization Methods](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week6)
+  - [W3A1 - Introduction to TensorFlow](https://github.com/abdur75648/Deep-Learning-Specialization-Coursera/tree/main/Improving%20Deep%20Neural%20Networks:%20Hyperparameter%20tuning%2C%20Regularization%20and%20Optimization/week7)
 
 - Course 3: Structuring Machine Learning Projects
 
